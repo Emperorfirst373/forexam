@@ -10,3 +10,4 @@
 - Build a personal website
 ## Skills
    -devop
+   -new edit
