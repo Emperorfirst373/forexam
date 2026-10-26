@@ -9,3 +9,4 @@
 - Learn Git and GitHub
 - Build a personal website
 ## Skills
+   -devop
