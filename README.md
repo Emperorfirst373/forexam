@@ -8,3 +8,6 @@
 - Learn Python programming
 - Learn Git and GitHub
 - Build a personal website
+## Skills
+   -devop
+   -new edit
